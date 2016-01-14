@@ -12,6 +12,11 @@ h6 {
   padding:0;
   margin:0;
   font-family: 'Lato', sans-serif;
+}
+header,
+body {
+  width: 85%;
+  margin:auto;
 
 }
 
@@ -129,7 +134,8 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  /*background-color: #484848;*/
+  background: url('../images/WashU.jpg') center no-repeat;
 }
 
 .flex-box {
