@@ -134,8 +134,8 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  /*background-color: #484848;*/
-  background: url('../images/WashU.jpg') center no-repeat;
+  background-color: #484848;
+  /*background: url('../images/WashU.jpg') center no-repeat;*/
 }
 
 .flex-box {
