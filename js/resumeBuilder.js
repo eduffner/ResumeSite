@@ -67,19 +67,19 @@ var work = {
     "employer": "WashU Computer Vision Lab",
     "title": "Research Assistant",
     "location": "St. Louis, MO",
-    "dates": 2016,
+    "dates": "2016",
     "description": " "
   }, {
     "employer": "WashU Advanced Algorithms",
     "title": "Head Teaching Assistant",
     "location": "St. Louis, MO",
-    "dates": 2016,
+    "dates": "2016",
     "description": " "
   }, {
     "employer": "Local Backhaul Networks",
     "title": "Junior Web Developer",
     "location": "Chesterfield, MO",
-    "dates": 2015,
+    "dates": "2015",
     "description": "At LBN, I worked as a web developer both individually and in a small team setting. My first project consisted of using HTML and CSS to improve the cosmetics of a web application. From there, my work scope was increased to include the full range of feature development work. I successfully designed, developed, and tested new features using PHP and JQuery on multiple inter-team projects. In later projects I optimized the site’s performance by implementing efficient calls to the application’s database."
   }, {
     "employer": "WashU Computer Science Department",
@@ -98,19 +98,19 @@ var work = {
     "employer": "WashU Psychology",
     "title": "Research Assistant",
     "location": "St. Louis, MO",
-    "dates": 2011,
+    "dates": "2011",
     "description": ""
   }, {
     "employer": "WashU Computer Science",
     "title": "Research Assistant",
     "location": "St. Louis, MO",
-    "dates": 2011,
+    "dates": "2011",
     "description": ""
   }, {
     "employer": "University of Chicago Pyschology",
     "title": "Research Assistant",
     "location": "Chicago, IL",
-    "dates": 2012,
+    "dates": "2012",
     "description": ""
   }],
   "display": function() {
@@ -184,29 +184,29 @@ var projects = {
 var education = {
   "schools": [{
     "name": "Washington University",
-    "city": "St. Louis",
+    "location": "St. Louis",
     "degree": "Bachelors",
     "majors": ["Philosopjy-Neuroscience-Psychology"],
     "minors": ["Computer Science", "Law"],
-    "dates": 2013,
+    "dates": "2009-2013",
     "url": "http://www.wustl.edu"
   }, {
     "name": "Washington University",
-    "city": "St. Louis",
+    "location": "St. Louis",
     "degree": "Masters",
     "majors": ["Computer Science"],
-    "dates": 2016,
+    "dates": "2013-2016",
     "url": "http://www.wustl.edu"
   }],
   "onlineCourses": [{
     "title": "Computer Systems I/II",
     "school": "DePaul University",
-    "dates": 2014,
+    "date": "2014",
     "url": "http://www.cdm.depaul.edu/academics/pages/classinfo.aspx?Term=20152&ClassNbr=20106&fid=46928"
   }, {
     "title": "Front-End Web Development",
     "school": "Udacity",
-    "dates": 2016,
+    "date": "2016",
     "url": "http://www.udadcity.com"
   }],
   "display": function() {
